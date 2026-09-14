@@ -1,5 +1,5 @@
 # snake
-Snake hecho en **C++** usando **ncurses**.
+Snake hecho en **C++** usando **ncurses** para práctica salida en terminal.
 
 El juego tiene:
 - Movimiento con `WASD`
